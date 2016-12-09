@@ -5,4 +5,4 @@ rvm:
 - 2.1.0
 - 2.2.1
 
-script: "./holaMundoTravis.sh"
+script: "ruby holaMundoTravis.rb"
